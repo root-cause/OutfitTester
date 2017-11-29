@@ -1,0 +1,9 @@
+<meta>
+    <info name="OutfitTester" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+
+    <!-- References -->
+    <assembly ref="System.Xml.dll" />
+</meta>
